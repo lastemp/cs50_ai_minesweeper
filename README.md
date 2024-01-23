@@ -22,10 +22,6 @@ $ pwd
    ```
    
 1. Run the application:
-
-   ```sh
-   pip3 install -r requirements.txt
-   ```
    
    ```sh
    py runner.py
